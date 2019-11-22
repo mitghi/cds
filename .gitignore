@@ -1,0 +1,8 @@
+\#*#
+.#*
+*.*~
+*.out
+*.out.dS*
+*.dSYM/
+.DS_STORE
+*/**/.DS_STORE
